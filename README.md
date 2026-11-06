@@ -1,3 +1,5 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;Web+Designer)](https://git.io/typing-svg)
 Hi, I'm Asema 👋
 
 💻 Frontend Developer
