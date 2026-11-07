@@ -1,12 +1,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;Web+Designer)](https://git.io/typing-svg)
-Hi, I'm Asema 👋
+Hi, I'm Asema 
 
-💻 Frontend Developer
+ Frontend Developer
 
 I create modern and responsive websites using React and Tailwind CSS.
 
-🛠️ Tech Stack
+ Tech Stack
 
 - HTML
 - CSS
@@ -15,18 +15,18 @@ I create modern and responsive websites using React and Tailwind CSS.
 - Tailwind CSS
 - Git & GitHub
 
-🚀 My Projects
+ My Projects
 
-- 🍽️ MAISON — Restaurant Website
-- 💻 Asema — Personal Project
+-  MAISON — Restaurant Website
+-  Asema — Personal Project
 
-🌱 About Me
+ About Me
 
 - Interested in web development and design
 - Always learning new technologies
 - Creating beautiful and user-friendly websites
 
-📍 Bishkek, Kyrgyzstan
+ Bishkek, Kyrgyzstan
 
 <!--
 **rahmanjanovaasema0-web/rahmanjanovaasema0-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
